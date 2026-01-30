@@ -1,0 +1,7 @@
+{
+  "name": "Copy of The Celestial Advisor",
+  "description": "An ultra-luxury, private astrological intelligence service for the global elite.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
